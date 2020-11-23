@@ -1,5 +1,8 @@
 package com.practice.design.pattern.singleton;
 
+/**
+ * @author liuchang
+ */
 public class InnerClass {
     private  InnerClass () { }
 
